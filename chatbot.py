@@ -1,6 +1,4 @@
 
-
-
 from tkinter import *
 # TKinter used for graphical user interfaces (GUIs) 
 
